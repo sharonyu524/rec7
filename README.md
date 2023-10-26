@@ -2,3 +2,4 @@
 Recitation 7 - Practice with Git
 
 Add your name here:
+Sharon
